@@ -1,5 +1,6 @@
 # org.visit.web.codetest1
-Initial example material for doing the Coding test 1
+Congratulations! You have been selected to perform a coding test for Teknovisio Oy.
+As soon as you are finnished we will go through your work and contact if you are selected for further interview.
 
 
 -Read README.pdf for full instructions
@@ -7,4 +8,7 @@ Initial example material for doing the Coding test 1
 -Checkout the project to get some help in the oauth process
 
 -Don't burden the servers unnecessarily please
+
+
+Good luck and have fun with coding!
 
