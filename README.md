@@ -1,5 +1,5 @@
 # org.visit.web.codetest1
-Congratulations! You have been selected to perform a coding test for Teknovisio Oy.
+Congratulations! You have been selected to perform a coding test for Visit Intelligence Oy.
 As soon as you are finished we will go through your work and contact if you are selected for further interview.
 
 
